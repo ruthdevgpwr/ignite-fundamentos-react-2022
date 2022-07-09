@@ -41,7 +41,7 @@ const posts = [
       {
         type: 'paragraph',
         content:
-          'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀',
+          'Acabei de subir mais um projeto do programa de treinamento em JAVA e SpringBoot. É um projeto que fiz no Alura. O nome do projeto é BackendHard 🚀🚀🚀🚀',
       },
       { type: 'link', content: 'jane.design/doctorcare' },
     ],
