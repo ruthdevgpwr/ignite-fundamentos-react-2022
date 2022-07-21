@@ -22,7 +22,7 @@ export function Comment({ content }) {
             </button>
           </header>
 
-          <p> {content} 👏👏</p>
+          <p>{content}</p>
         </div>
 
         <footer>
